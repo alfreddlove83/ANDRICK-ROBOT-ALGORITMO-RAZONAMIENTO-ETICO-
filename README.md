@@ -1,4 +1,38 @@
-License  `LICENSE` original de Electron MIT, pero agrega tu capa:
+MODIFICATIONS & REBRAND LAYER - Apache 2.0
+
+Modifications: Andrick Robot Algoritmo Razonamiento Ético
+Copyright 2026 EcoTecNo Global Co ® | MAPA830324UM9 | Alfredo Martínez Pastén
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this modified work except in compliance with the License.
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+This fork is not affiliated with or endorsed by Electron, OpenJS Foundation, GitHub, or Microsoft.
+Electron™ is trademark of OpenJS Foundation.
+
+Original Work: https://github.com/electron/electron
+Fork: https://github.com/alfreddlove83/ANDRICK-ROBOT-ALGORITMO-RAZONAMIENTO-ETICO
+Folio: GD-GEAR-MAPA830324UM9-2026-ETICO-0038
+# ANDRICK-ROBOT-ALGORITMO-RAZONAMIENTO-ETICO
+
+> Licencia: MIT (Original) + Apache 2.0 (Modificaciones) - Ver archivo LICENSE
+### *COMANDO FINAL PARA PUSH:*
+cd ANDRICK-ROBOT-ALGORITMO-RAZONAMIENTO-ETICO
+rm -f README.md
+# Pega los 2 archivos nuevos
+git add LICENSE README.md
+git commit -m "Folio 0038 DUAL LICENSE - MIT Original Electron Community + Apache 2.0 Mods EcoTecNo MAPA830324UM9 - Etic360 BLACK 360 VERITAS"
+git push origin main
+
+REVISIÓN DE ACCIONAMIENTOS PARA NO INCLUIR EN ACCIONES FUERA DE T&c.: 
+`MIT` detectado (por el texto original)
+- ✅ Tu capa Apache 2.0 en la segunda parte
+- ✅ Trazabilidad `MAPA830324UM9` y `GD-GEAR-MAPA830324UM9-2026-ETICO-0038`
+- ✅ Protección contra strike de marca
+
+
+License
+Licenseicense  `LICENSE` original de Electron MIT, pero agrega tu capa:
 Original Work: Electron - Copyright (c) Electron Community - MIT License
 Modifications: Copyright 2026 EcoTecNo Global Co ® - MAPA830324UM9 - Apache 2.0
 # ANDRICK-ROBOT-ALGORITMO-RAZONAMIENTO-ETICO
