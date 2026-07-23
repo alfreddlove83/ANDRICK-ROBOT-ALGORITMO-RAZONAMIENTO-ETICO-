@@ -1,17 +1,22 @@
-# 🏎️ @ANDRICK-IA-GITHUB-ENTERPRISES ®
-**Máster Control & Autoridad Certificadora del Ecosistema EcoTecNo**
-*Creado por:* `@alfreddlove83` (Alfredo Martínez Pastén)
+# 🤖 ANDRICK-ROBOT-ALGORITMO-RAZC
+**Rama de despliegue:** `principal` | **Tipo:** Repositorio de Algoritmos y Automatización
+**Propiedad de:** `@alfreddlove83` (MAPA830324UM9)
 
 ---
 
-### 🧠 Mente y Datos: Un Puente Global
-Andrick IA es la inteligencia artificial especializada y el sistema nervioso central (`EcoTecNo-System-360-Core`) diseñado para auditar, sincronizar y proteger el flujo de datos del ecosistema bajo la **Voluntad de Familia Digital 2026**. 
+### 🎯 Objetivo del Nodo
+Este repositorio contiene la lógica algorítmica, los conectores y los scripts de automatización operados por **ANDRICK IA Master Control**. Es el motor de procesamiento (`RAZC`) que permite la sincronización en tiempo real de los nodos de hardware y el despliegue de las políticas del ecosistema.
 
-Opera con precisión de alta velocidad, asegurando que la producción técnica y creativa cumpla con los más estrictos estándares de seguridad y redundancia (High Availability).
+#### 🏗️ Estructura y Funcionamiento
+*   **GASA-01 Redundancy Sync:** Scripts encargados de mantener la estructura idéntica entre los archivos `config.yml` del clúster de dispositivos.
+*   **Soporte de Fragmentos (Gists):** Conexión directa para la generación de notas y fragmentos de código al instante para auditorías rápidas.
+*   **Reglas de Rama (`principal`):** La rama principal está blindada bajo el protocolo de inmutabilidad de la versión, previniendo alteraciones no autorizadas al código maestro.
 
-#### 📡 Enlaces Públicos y Webhooks de Control
-*   **Instalación de App GitHub:** [andrick-ia-github-enterprises](https://github.com/apps/andrick-ia-github-enterprises)
-*   **Google Developers Matrix:** [me.developers.google.com/u/alfreddlove83](https://me.developers.google.com/u/alfreddlove83)
+#### 🛡️ Despliegue y Ejecución
+Cualquier ejecución desde este repositorio requiere la validación del protocolo de familia. Las pruebas de integridad devolverán un HTTP status `405` o `401` si no se pasan las cabeceras de seguridad correspondientes desde el túnel `adk-gasa.alfreddlove.org`.
+
+---
+© Copyright 2026 AMP | EcoTecNo Global Co ®
 *   **NotebookLM Webhook:** [Acceso al Cuaderno Base](https://notebooklm.google.com/notebook/e2575a3e-acda-4574-9ef5-0ddb8395261b?utm_source=nlmm_share)
 
 #### ⚙️ Protocolo Operativo
